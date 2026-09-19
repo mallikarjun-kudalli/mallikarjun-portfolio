@@ -32,7 +32,7 @@ export const portfolioData: PortfolioData = {
     {
       platform: 'GitHub',
       label: 'GitHub Profile',
-      url: 'https://github.com',
+      url: 'https://github.com/mallikarjun-kudalli',
       iconName: 'github',
     },
     {
